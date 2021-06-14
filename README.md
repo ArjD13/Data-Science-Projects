@@ -1,5 +1,5 @@
 # Data-Science-Projects
-Variety of ds projects completed over the last year
+Variety of ds projects completed over the last year covering topics such as basic api investigations to flight arrival delay predictor ML regression models .
 
 
 
