@@ -1,7 +1,7 @@
 ## Data-Science-Projects
 Hello! Here you find brief introductions to data science projects I have completed as well as links to code necessary code and visuals accompanied with them. Hopefully you enjoy :-)
 
-## Machine Learning Projects
+## Machine Learning
 ___________________________________
 ### Loan Classifcation Model deployed via into flask api
 
